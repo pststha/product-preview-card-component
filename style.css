@@ -44,6 +44,7 @@ h1{
 .desktop-img{
     max-width:100%;
     border-radius: 5px 0 0 5px;
+    display: block;
 }
 
 .mobile-img{
